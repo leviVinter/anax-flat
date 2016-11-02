@@ -1,10 +1,9 @@
-About this site
+Om sidan
 ==============================================
 
-The primary focus of this site is to:
+Den här sidan kommer jag använda för att lära mig mer om design
+och ramverket Anax Flat.
 
-* To be used in teaching the [dbwebb course design](http://dbwebb.se/design).
+För att ta reda på hur sidan är uppbyggd kan du kolla på mitt [GitHub-repo](https://github.com/leviVinter/anax-flat).
 
-The source for this site is available on GitHub in [canax/anax-flat](git@github.com:canax/anax-flat.git).
-
-This site is produced by [Mikael Roos](https://mikaelroos.se) (mos@dbwebb.se).
+<img src="../htdocs/img/paint.jpg" alt="Spray color" style="float: right;">

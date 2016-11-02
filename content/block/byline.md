@@ -1,3 +1,3 @@
-Thomas Hedlund
-
-![Thomas Hedlund](http://www.student.bth.se/~thhe16/dbwebb-kurser/javascript1/me/img/thomas.png)
+<img src="../htdocs/img/thomas-small.png" style="float: left" alt="Thomas Hedlund">
+Thomas Hedlund.
+Studerar webbprogrammering på BTH.
