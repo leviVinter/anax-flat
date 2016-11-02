@@ -2,6 +2,7 @@ Revision history
 =======================================
 
 v1.1.0 (2016-11-02)
+---------------------------------------
 
 * Made the page more personal and updated old texts and images with my own.
 
