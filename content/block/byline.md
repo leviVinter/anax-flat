@@ -1,3 +1,3 @@
-<img src="../htdocs/img/thomas-small.png" style="float: left" alt="Thomas Hedlund">
-Thomas Hedlund.
+<img class="image-byline" src="../htdocs/img/thomas-small.png" alt="Thomas Hedlund">
+Thomas Hedlund.  
 Studerar webbprogrammering på BTH.
