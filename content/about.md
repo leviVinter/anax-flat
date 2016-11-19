@@ -1,3 +1,7 @@
+---
+titleBreadcrumb: Om
+...
+
 Om sidan
 ==============================================
 <img src="../htdocs/img/paint.jpg" alt="Spray color" class="img-spray-paint">

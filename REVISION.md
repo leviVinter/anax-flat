@@ -1,5 +1,10 @@
 Revision history
 =======================================
+v3.0.0 (2016-11-19)
+---------------------------------------
+
+* Added two more pages, Grid and Typography which are supposed
+to showcase the new styling.
 
 v2.0.0 (2016-11-11)
 ---------------------------------------
