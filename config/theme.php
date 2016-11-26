@@ -22,7 +22,7 @@ return [
 
             // Style and stylesheets
             "stylesheets" => [
-                "css/style.min.css",
+                "css/default1.min.css",
                 "https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css",
                 ],
             "styleInline" => null,
@@ -48,14 +48,15 @@ return [
             ],
             "sort" => 1
         ],
+
         [
             "region" => "header",
             "template" => "default/header",
             "data" => [
                 "homeLink"      => "",
-                "siteLogoText"  => "Anax Flat",
-                "siteLogoTextIcon" => "img/favicon/favicon_40x40.png",
-                "siteLogoTextIconAlt" => "Small logo",
+                "siteLogoText"  => "Thomas",
+                "siteLogoTextIcon" => null,//"img/favicon/favicon_40x40.png",
+                "siteLogoTextIconAlt" => null,//"Small logo",
                 "siteLogo"      => null, //"img/anax.png",
                 "siteLogoAlt"   => null, //"Anax Logo",
                 "siteTitle"     => null, //"Anax PHP framework",

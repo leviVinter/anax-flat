@@ -14,12 +14,6 @@ return [
         // Here comes the menu structure
         "items" => [
 
-            "home" => [
-                "text"  => t("Hem"),
-                "url"   => $this->di->get("url")->create(""),
-                "title" => t("First page"),
-            ],
-
             "report" => [
                 "text"  => t("Redovisning"),
                 "url"   => $this->di->get("url")->create("report"),
@@ -37,6 +31,25 @@ return [
                 "text"  => t("Typografi"),
                 "url"   => $this->di->get("url")->create("typography"),
                 "title" => t("Baseline background"),
+            ],
+
+            "analysis" => [
+                "text"  => t("Analys"),
+                "url"   => $this->di->get("url")->create("analysis"),
+                "title" => t("Analyze colorscheme"),
+                "mark-if-parent" => true,
+            ],
+
+            "theme" => [
+                "text"  => t("Tema"),
+                "url"   => $this->di->get("url")->create("theme"),
+                "title" => t("The different themes for the site")
+            ],
+
+            "theme-selector" => [
+                "text"  => t("Temaväljare"),
+                "url"   => $this->di->get("url")->create("theme-selector"),
+                "title" => t("Theme selector")
             ],
 
             "about" => [
@@ -60,13 +73,6 @@ return [
      
         // Here comes the menu structure
         "items" => [
-
-            "home" => [
-                "text"  => t("Hem"),
-                "url"   => $this->di->get("url")->create(""),
-                "title" => t("First page"),
-            ],
-
             "report" => [
                 "text"  => t("Redovisning"),
                 "url"   => $this->di->get("url")->create("report"),
@@ -78,6 +84,30 @@ return [
                 "text"  => t("Grid"),
                 "url"   => $this->di->get("url")->create("grid"),
                 "title" => t("Grid background"),
+            ],
+
+            "typography" => [
+                "text"  => t("Typografi"),
+                "url"   => $this->di->get("url")->create("typography"),
+                "title" => t("Baseline background"),
+            ],
+
+            "analysis" => [
+                "text"  => t("Analys"),
+                "url"   => $this->di->get("url")->create("analysis"),
+                "title" => t("Analyze colorscheme"),
+            ],
+
+            "theme" => [
+                "text"  => t("Tema"),
+                "url"   => $this->di->get("url")->create("theme"),
+                "title" => t("The different themes for the site")
+            ],
+
+            "theme-selector" => [
+                "text"  => t("Temaväljare"),
+                "url"   => $this->di->get("url")->create("theme-selector"),
+                "title" => t("Theme selector")
             ],
 
             "about" => [
