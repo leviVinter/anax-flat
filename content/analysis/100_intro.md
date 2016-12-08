@@ -1,4 +1,4 @@
 Introduktion
 ===============================
 
-Här är mina redovsningstexter för varje kursmoment.
+Här analyserar jag olika aspekter av webbdesign.

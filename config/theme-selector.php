@@ -76,12 +76,42 @@ return [
             ]
         ],
 
+
         "separator2" => "------------------------------------------------",
 
         "fun"       => [
             "title"      => "All fun, test and play, make it stand out!",
             "class"      => "fun",
             "stylesheets" => []
+        ],
+
+        "separator3" => "------------------------------------------------",
+
+        "depth"     => [
+            "title"      => "Add depth to certain elements",
+            "class"      => "depth",
+            "stylesheets" => [
+                "css/style.min.css",
+                "https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css"
+            ]
+        ],
+
+        "repeat"     => [
+            "title"      => "Repeat a pattern to create unity",
+            "class"      => "repeat",
+            "stylesheets" => [
+                "css/style.min.css",
+                "https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css"
+            ]
+        ],
+
+        "direction"     => [
+            "title"      => "Elements fades into view after some time",
+            "class"      => "direction",
+            "stylesheets" => [
+                "css/style.min.css",
+                "https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css"
+            ]
         ],
     ]
 ];

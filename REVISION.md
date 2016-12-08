@@ -1,6 +1,11 @@
 Revision history
 =======================================
 
+6.0.0 (2016-12-08)
+---------------------------------------
+
+* The site now have three new themes and a new page called Designprinciper.
+
 5.0.0 (2016-12-05)
 ---------------------------------------
 
