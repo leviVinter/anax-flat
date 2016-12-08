@@ -1,8 +1,8 @@
 ---
-titleBreadcrumb: Designprincip
+titleBreadcrumb: Designprinciper
 ...
 
-Designprincip
+Designprinciper
 =================
 Här beskriver jag de nya teman jag skapat, som du hittar i [temaväljaren](theme-selector).
 De olika designprinciperna har jag tagit från [Design Elements & Principles](https://designschool.canva.com/design-elements-principles).
