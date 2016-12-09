@@ -1,6 +1,17 @@
 Revision history
 =======================================
 
+6.0.2 (2016-12-09)
+---------------------------------------
+
+* Added a new page in the navbar called Designelement, and three new themes for the
+theme-selector.
+
+6.0.1 (2016-12-08)
+---------------------------------------
+
+* Corrected a miss spell and added a lost background image for the theme repeat.
+
 6.0.0 (2016-12-08)
 ---------------------------------------
 

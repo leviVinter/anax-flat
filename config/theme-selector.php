@@ -113,5 +113,34 @@ return [
                 "https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css"
             ]
         ],
+
+        "separator4" => "------------------------------------------------",
+
+        "theme1"     => [
+            "title"      => "Elements fades into view after some time",
+            "class"      => "theme1",
+            "stylesheets" => [
+                "css/style.min.css",
+                "https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css"
+            ]
+        ],
+
+        "theme2"     => [
+            "title"      => "Elements fades into view after some time",
+            "class"      => "theme2",
+            "stylesheets" => [
+                "css/style.min.css",
+                "https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css"
+            ]
+        ],
+
+        "theme3"     => [
+            "title"      => "Elements fades into view after some time",
+            "class"      => "theme3",
+            "stylesheets" => [
+                "css/style.min.css",
+                "https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css"
+            ]
+        ],
     ]
 ];

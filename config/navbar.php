@@ -46,12 +46,6 @@ return [
                 "title" => t("The different themes for the site")
             ],
 
-            "theme-selector" => [
-                "text"  => t("Temaväljare"),
-                "url"   => $this->di->get("url")->create("theme-selector"),
-                "title" => t("Theme selector")
-            ],
-
             "images" => [
                 "text"  => t("Bilder"),
                 "url"   => $this->di->get("url")->create("images"),
@@ -68,6 +62,12 @@ return [
                 "text"  => t("Designprinciper"),
                 "url"   => $this->di->get("url")->create("design-principle"),
                 "title" => t("Design principles")
+            ],
+
+            "design-element" => [
+                "text"  => t("Designelement"),
+                "url"   => $this->di->get("url")->create("design-element"),
+                "title" => t("Design element")
             ],
 
             "about" => [
@@ -122,12 +122,6 @@ return [
                 "title" => t("The different themes for the site")
             ],
 
-            "theme-selector" => [
-                "text"  => t("Temaväljare"),
-                "url"   => $this->di->get("url")->create("theme-selector"),
-                "title" => t("Theme selector")
-            ],
-
             "images" => [
                 "text"  => t("Bilder"),
                 "url"   => $this->di->get("url")->create("images"),
@@ -144,6 +138,12 @@ return [
                 "text"  => t("Designprinciper"),
                 "url"   => $this->di->get("url")->create("design-principle"),
                 "title" => t("Design principles")
+            ],
+
+            "design-element" => [
+                "text"  => t("Designelement"),
+                "url"   => $this->di->get("url")->create("design-element"),
+                "title" => t("Design element")
             ],
 
             "about" => [
