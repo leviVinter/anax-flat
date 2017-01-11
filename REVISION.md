@@ -1,11 +1,15 @@
 Revision history
 =======================================
 
+10.0.0 (2017-01-11)
+---------------------------------------
+
+* Added a new analysis with the topic of Usability for four different sites.
+
 6.0.2 (2016-12-09)
 ---------------------------------------
 
-* Added a new page in the navbar called Designelement, and three new themes for the
-theme-selector.
+* Added a new page in the navbar called Designelement, and three new themes for the theme-selector.
 
 6.0.1 (2016-12-08)
 ---------------------------------------
